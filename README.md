@@ -1,10 +1,5 @@
 # Group-39-clinic-queue-booking
 Software Engineering: IT353
-# Group-39-clinic-queue-booking
-Software Engineering: IT353
-# Clinic Queue Booking App
-
-Software Engineering: IT353
 
 > Patients can book clinic appointments and follow their place in the queue, while clinic staff manage bookings and patient check-ins, helping reduce uncertainty and unnecessary waiting at the clinic.
 
